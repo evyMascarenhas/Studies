@@ -1,0 +1,10 @@
+C:\Users\Nozes\source\repos\Testes\binarysearch\bin\Debug\netcoreapp3.1\binarysearch.exe
+C:\Users\Nozes\source\repos\Testes\binarysearch\bin\Debug\netcoreapp3.1\binarysearch.deps.json
+C:\Users\Nozes\source\repos\Testes\binarysearch\bin\Debug\netcoreapp3.1\binarysearch.runtimeconfig.json
+C:\Users\Nozes\source\repos\Testes\binarysearch\bin\Debug\netcoreapp3.1\binarysearch.runtimeconfig.dev.json
+C:\Users\Nozes\source\repos\Testes\binarysearch\bin\Debug\netcoreapp3.1\binarysearch.dll
+C:\Users\Nozes\source\repos\Testes\binarysearch\bin\Debug\netcoreapp3.1\binarysearch.pdb
+C:\Users\Nozes\source\repos\Testes\binarysearch\obj\Debug\netcoreapp3.1\binarysearch.AssemblyInfoInputs.cache
+C:\Users\Nozes\source\repos\Testes\binarysearch\obj\Debug\netcoreapp3.1\binarysearch.AssemblyInfo.cs
+C:\Users\Nozes\source\repos\Testes\binarysearch\obj\Debug\netcoreapp3.1\binarysearch.dll
+C:\Users\Nozes\source\repos\Testes\binarysearch\obj\Debug\netcoreapp3.1\binarysearch.pdb
